@@ -1,3 +1,6 @@
+Link repo originale : https://gitlab.di.unimi.it/matteo.cucchi1/arduino-robotic-hand
+
+
 # Arduino Robotic Hand
 
 Il progetto consiste nella creazione di una mano meccanica in grado di mimare i movimenti compiuti dalla mano dell'utilizzatore mediante l'utilizzo di un guanto munito di sensori in grado di captare la flessione di ogni dito.
